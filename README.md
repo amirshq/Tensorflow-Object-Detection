@@ -49,4 +49,3 @@ The task of object detection involves identifying the type of an object and loca
 - TensorFlow Object Detection API: https://github.com/tensorflow/models/tree/master/research/object_detection
 - OpenCV Object Detection: https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
 
-Your role as a Data Scientist, particularly dealing with predictive modelling and data analysis, could benefit from integrating object detection into customer segmentation or predictive maintenance by adding a layer of visual data interpretation. For instance, real-time monitoring of machinery through cameras can offer valuable data points for predictive maintenance models. Using YOLO would be beneficial for real-time monitoring due to its speed, while TensorFlow-based methods could be used for periodic in-depth analyses.

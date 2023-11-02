@@ -49,3 +49,5 @@ The task of object detection involves identifying the type of an object and loca
 - TensorFlow Object Detection API: https://github.com/tensorflow/models/tree/master/research/object_detection
 - OpenCV Object Detection: https://opencv-tutorial.readthedocs.io/en/latest/yolo/yolo.html
 
+
+So, In this project, we will use Tensorflow Object Detection.
